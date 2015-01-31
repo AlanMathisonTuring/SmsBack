@@ -1,0 +1,2 @@
+# SmsBack
+sharePreference的学习,包括xml序列化器和xml解析器的学习,以模拟短信的备份和备份短信的读取为实例进行
